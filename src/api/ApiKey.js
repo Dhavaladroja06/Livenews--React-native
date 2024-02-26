@@ -1,0 +1,1 @@
+export const newsApiKey = "d439e546f2c847058863283200d99a16";
